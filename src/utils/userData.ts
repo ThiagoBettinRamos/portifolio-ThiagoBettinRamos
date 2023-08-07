@@ -1,7 +1,7 @@
 export const userData = {
   nameUser: "Thiago Bettin Ramos",
   githubUser: "ThiagoBettinRamos",
-  linkedinUser: "Thiago Bettin Ramos",
+  linkedinUser: "thiago-bettin-ramos-91b878238",
   whatsappNumber: "+5512991227400",
   emailUser: "thiago_bettin@hotmail.com",
   instagramUser: "thiagobettin21",
