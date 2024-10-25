@@ -48,7 +48,7 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá, meu nome é {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            Eu{" "}
+              Eu{" "}
               <Text as="span" type="heading1" color="brand1">
                 amo
               </Text>{" "}
@@ -59,11 +59,12 @@ export const Home = (): JSX.Element => {
               projetos
             </Text>
             <Text type="body1" color="grey2">
-            Conheça aqui neste ambiente, criado especialmente para você, todos os meus projetos e tecnologias
+              Conheça aqui neste ambiente, criado especialmente para você, todos
+              os meus projetos e tecnologias
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
-              Ver Projetos
+                Ver Projetos
               </Button>
               <Button as="a" type="outline" target="_blank" href={portfolioUrl}>
                 Veja o código-fonte do meu portfólio
@@ -92,10 +93,10 @@ export const Home = (): JSX.Element => {
           <ProjectAreaWrapperColumns>
             <ProjectsAreaSocialMediaMessage>
               <Text as="h2" type="heading4" color="grey4">
-              Meus projetos
+                Meus projetos
               </Text>
               <Text as="p" type="body1" color="grey2">
-              Alguns dos meus{" "}
+                Alguns dos meus{" "}
                 <Text as="span" color="brand5">
                   projetos paralelos
                 </Text>
